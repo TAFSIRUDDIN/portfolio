@@ -1,7 +1,7 @@
 import { Button, Modal } from 'react-bootstrap';
 import React from 'react';
 
-const Project1 = (props) => {
+const Project2 = (props) => {
     return (
         <Modal
         {...props}
@@ -11,14 +11,14 @@ const Project1 = (props) => {
       >
         <Modal.Header closeButton>
           <Modal.Title id="contained-modal-title-vcenter">
-          House Painting Services
+          Hablu Book Store
           </Modal.Title>
         </Modal.Header>
         <Modal.Body>
           <h4>Centered Modal</h4>
-          <p><b>LIVE SITE: </b><a href="https://house-painting-663f8.web.app/">https://house-painting-663f8.web.app/</a></p>
-          <p><b>ClINT SITE CODE LINK: </b><a href="https://github.com/TAFSIRUDDIN/house-painting-clint">https://github.com/TAFSIRUDDIN/house-painting-clint</a></p>
-          <p><b>SERVER SITE CODE LINK: </b><a href="https://github.com/TAFSIRUDDIN/Housepainting-server">https://github.com/TAFSIRUDDIN/Housepainting-server</a></p>
+          <p><b>LIVE SITE: </b><a href="https://programming-hero-book-shop.web.app/">https://programming-hero-book-shop.web.app/</a></p>
+          <p><b>ClINT SITE CODE LINK: </b><a href="https://github.com/TAFSIRUDDIN/Hablu-book-store-clint">https://github.com/TAFSIRUDDIN/Hablu-book-store-clint</a></p>
+          <p><b>SERVER SITE CODE LINK: </b><a href="https://github.com/TAFSIRUDDIN/Hablu-book-store-server">https://github.com/TAFSIRUDDIN/Hablu-book-store-server</a></p>
         </Modal.Body>
         <Modal.Footer>
           <Button onClick={props.onHide}>Close</Button>
@@ -27,4 +27,4 @@ const Project1 = (props) => {
     );
 };
 
-export default Project1;
+export default Project2;

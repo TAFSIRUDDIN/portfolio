@@ -8,7 +8,7 @@ const MyWork = () => {
     const [key, setKey] = useState('react');
     return (
         <>
-            <Container fluid style={{backgroundColor: 'rgb(129, 120, 120)'}}>
+            <Container id="portfolio" fluid style={{backgroundColor: 'rgb(129, 120, 120)'}}>
                 <div className="mork-head">
                     <h1>My Work</h1>
                 </div>

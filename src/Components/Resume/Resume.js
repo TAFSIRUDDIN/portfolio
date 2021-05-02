@@ -4,7 +4,7 @@ import './Resume.css';
 
 const Resume = () => {
     return (
-        <Container fluid  style={{backgroundColor: 'rgb(239 239 239)', padding:'3rem'}}>
+        <Container id="resume" fluid  style={{backgroundColor: 'rgb(239 239 239)', padding:'3rem'}}>
             <div className="resume-head">
                 <h1>Resume</h1>
             </div>

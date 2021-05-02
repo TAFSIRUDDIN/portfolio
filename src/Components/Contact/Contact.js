@@ -21,7 +21,7 @@ const Contact = () => {
           e.target.reset();
       }
     return (
-        <Container fluid style={{backgroundColor: '#fff'}}>
+        <Container id="contact" fluid style={{backgroundColor: '#fff'}}>
             <div className="contact-head">
                 <h1>Get In Touch</h1>
             </div>

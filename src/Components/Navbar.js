@@ -21,16 +21,16 @@ const Navbar = () => {
                         <a href="#">What I do</a>
                     </li>
                     <li className="nav-item">
-                        <a href="#">Resume</a>
+                        <a href="#resume">Resume</a>
                     </li>
                     <li className="nav-item">
-                    <a href="#">Portfolio</a>
+                    <a href="#portfolio">Portfolio</a>
                     </li>
                     <li className="nav-item">
-                        <a href="#">Testimonial</a>
+                        <a href="#testimonial">Testimonial</a>
                     </li>
                     <li className="nav-item">
-                        <a href="#">Contact</a>
+                        <a href="#contact">Contact</a>
                     </li>
                 </ul>
                 <footer className="menu-footer">
