@@ -1,0 +1,30 @@
+.Know-me-text h3{
+    text-align: center !important;
+   
+}
+
+.Know-me{
+    text-align: center !important;
+    font-weight: 600;
+    line-height: 1.6;
+    font-size: 2.25rem;
+    color: #343a40;
+}
+.Know-me:hover{
+    color: #20c997;
+}
+.Know-me-text p{
+    text-align: justify !important;
+}
+.download-cv{
+    border-radius: 50px;
+}
+.cv-detail p{
+    border-bottom: 1px solid #2e344e;
+    text-align: left;
+}
+.proof{
+    margin: 0 auto !important;
+    text-align: center;
+    padding-bottom: 3rem;
+}

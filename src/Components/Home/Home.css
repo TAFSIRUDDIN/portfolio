@@ -1,0 +1,27 @@
+.banner-head{
+    /* margin-top: 10rem; */
+    padding-top: 10rem;
+    text-align: center;
+    
+}
+.banner-head h1{
+    font-weight: 600;
+    color: aliceblue;
+    font-size: 4rem;
+}
+.head-body{
+    background-image: url(../../img/topu.jpg) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40rem;
+}
+.hire-me{
+    border-radius: 40px;
+    height: 50px;
+    width: 160px;
+    border: 1.5px solid #007bff;
+}
+.area{
+    color: #dee3e4 ;
+    font-size: 1.3125rem;
+}

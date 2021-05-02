@@ -1,0 +1,22 @@
+.mork-head{
+    text-align: center;
+    padding-top: 8rem;
+    padding-bottom: 5rem;
+
+}
+.works{
+    height: 100%;
+}
+.works nav{
+    display: flex;
+    justify-content: center;
+    border-bottom: 0 !important;
+}
+.works nav a{
+    /* background-color: ; */
+    color: black;
+    font-weight: bold;
+}
+.tabClass{
+    text-align: center;
+}
